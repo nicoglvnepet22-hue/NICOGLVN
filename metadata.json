@@ -1,0 +1,6 @@
+{
+  "name": "Hollow Sols: Penitence Arena",
+  "description": "Un juego 2D de acción y plataformas estilo soulsborne y metroidvania (Hollow Knight, Blasphemous, Nine Sols) con combate melee, magias a distancia, gancho de escalada con físicas y oleadas implacables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
